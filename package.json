@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "browserslist": ">0.5%",
+  "dependencies": {
+    "@types/svgo": "^3.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "@types/vite-plugin-react-svg": "^0.2.2",
+    "@vitejs/plugin-react": "3.0.1",
+    "typescript": "4.9.5",
+    "vite": "4.0.4",
+    "vite-plugin-checker": "0.5.5",
+    "vite-plugin-svgr": "2.4.0",
+    "vite-tsconfig-paths": "4.0.5"
+  },
+  "name": "vite-is-reloading-hard",
+  "description": ""
+}
