@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "vite",
-    "server": "cd some-other-server && python3 -m http.server 8000"
+    "mock-server": "cd some-other-server && python3 -m http.server 8000"
   },
   "browserslist": ">0.5%",
   "dependencies": {
@@ -13,9 +13,9 @@
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
     "@types/vite-plugin-react-svg": "^0.2.2",
-    "@vitejs/plugin-react": "3.1.0-beta.0",
+    "@vitejs/plugin-react": "3.1.0",
     "typescript": "4.9.5",
-    "vite": "4.1.0-beta.1",
+    "vite": "4.1.1",
     "vite-plugin-checker": "0.5.5",
     "vite-plugin-svgr": "2.4.0",
     "vite-tsconfig-paths": "4.0.5"

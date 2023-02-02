@@ -1,5 +1,5 @@
 import "vite/modulepreload-polyfill";
-import App from "./App";
+import App from "./MyApp";
 import { createRoot } from "react-dom/client";
 import React from "react";
 

@@ -546,10 +546,10 @@
     "@types/svgo" "2"
     vite "^2.3.8"
 
-"@vitejs/plugin-react@3.1.0-beta.0":
-  version "3.1.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-3.1.0-beta.0.tgz#0858e583eea2719e7b6ff035253d5bada9ac6d6c"
-  integrity sha512-EjDfiXNv7LkCPYKT1GPxBNOgcCs12s8tJ0B0mlgb1Gsy0D44MF08fcTgu+Tlo4XuhE9ehQL6dyAsiI69YM3rHA==
+"@vitejs/plugin-react@3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-3.1.0.tgz#d1091f535eab8b83d6e74034d01e27d73c773240"
+  integrity sha512-AfgcRL8ZBhAlc3BFdigClmTUMISmmzHn7sB2h9U1odvc5U/MjWXsAaz18b/WoppUTDBzxOJwo2VdClfUcItu9g==
   dependencies:
     "@babel/core" "^7.20.12"
     "@babel/plugin-transform-react-jsx-self" "^7.18.6"
@@ -1543,10 +1543,10 @@ vite-tsconfig-paths@4.0.5:
     globrex "^0.1.2"
     tsconfck "^2.0.1"
 
-vite@4.1.0-beta.1:
-  version "4.1.0-beta.1"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.1.0-beta.1.tgz#eb32b5239759f5820678d1396e13bfc5582536d5"
-  integrity sha512-cjGccsurul53bwsWigDqaPzES3cD9yP49g4xeS2BzlY2N6OQ4O5AXFYS4wEsYF/m0WAGl2rkIeDkmy7ea488Lg==
+vite@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.1.1.tgz#3b18b81a4e85ce3df5cbdbf4c687d93ebf402e6b"
+  integrity sha512-LM9WWea8vsxhr782r9ntg+bhSFS06FJgCvvB0+8hf8UWtvaiDagKYWXndjfX6kGl74keHJUcpzrQliDXZlF5yg==
   dependencies:
     esbuild "^0.16.14"
     postcss "^8.4.21"
