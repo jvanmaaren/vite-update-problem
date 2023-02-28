@@ -17,3 +17,8 @@ https://vitejs.dev/guide/backend-integration.html#backend-integration
 - Run the dev server: `yarn dev`
 - View `localhost:8000`
 - Now change text in App.tsx
+
+## Update: fixed
+
+This was fixed by updating the RefreshRuntime path:
+https://github.com/vitejs/vite-plugin-react/issues/101
